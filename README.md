@@ -1,6 +1,6 @@
 # demo-python-brownie
 
-Skeleton project demonstrating Solidity and Python [Brownie](https://eth-brownie.readthedocs.io/) on the Engi network.
+Project demonstrating Solidity and Python [Brownie](https://eth-brownie.readthedocs.io/) on the Engi network.
 
 ## Install
 
