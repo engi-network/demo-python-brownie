@@ -1,0 +1,11 @@
+version: "3.9"
+
+services:
+  tests:
+    build: .
+    command: pytest --report-log pytest.json
+    volumes:
+      # bind mount a directory to share the output of the test runner
+      - type: bind
+        source: .
+        target: /code

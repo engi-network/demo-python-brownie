@@ -16,6 +16,6 @@ Project demonstrating Solidity and Python [Brownie](https://eth-brownie.readthed
 
 ### Docker
 
-`docker-compose up --exit-code-from tests`
+`docker compose up --exit-code-from tests`
 
 Engi-compatible test runner output is in `pytest.json`
