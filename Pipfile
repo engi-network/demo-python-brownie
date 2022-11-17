@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 pytest-reportlog = "*"
 eth-brownie = "*"
+black = "*"
 
 [dev-packages]
 
